@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.body {
+  margin-bottom: 60px;
+}
+
 .navbar-custom {
   background-color: #FFFFFF;
 }
@@ -20,11 +24,25 @@
 }
 
 .home-container {
-  height: 100vh;
-  background-color: #DB8B29; /* Another Color DB8B29S */
+  background-color: #000000; /* Another Color DB8B29S DB8B29*/
 }
 
-.home-text {
+.site-text {
   color: #FFFFFF;
+}
 
+.about-p {
+  width: 300px;
+}
+
+.drayton-profile-pic {
+  width: 50%;
+}
+
+.offer-image {
+  width: 200px;
+}
+
+footer {
+  height: 60px;
 }
