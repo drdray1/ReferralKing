@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-custom {
+  background-color: #FFFFFF;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: black;
+  font-weight: bold;
+}
+
+.navbar-brand-logo {
+  width: 15em;
+  height: 10em;
+}
+
+.home-container {
+  height: 100vh;
+  background-color: #DB8B29; /* Another Color DB8B29S */
+}
+
+.home-text {
+  color: #FFFFFF;
+
+}
