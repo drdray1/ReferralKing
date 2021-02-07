@@ -4,12 +4,8 @@
   box-sizing: border-box;
 }
 
-.body {
-  margin-bottom: 60px;
-}
-
 .navbar-custom {
-  background-color: #FFFFFF;
+  background-color: #FFB600;/* #FFFFFF; */
 }
 
 .navbar-custom .navbar-brand,
@@ -23,8 +19,23 @@
   height: 10em;
 }
 
+.navbar-brand {
+  color: #0049FF !important;
+}
+
 .home-container {
-  background-color: #000000; /* Another Color DB8B29S DB8B29*/
+  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
+}
+
+.contact-container {
+  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
+}
+
+.offers-container {
+  background-color: #141824; /* #0049FF; #979797;#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
 }
 
 .site-text {
@@ -41,8 +52,4 @@
 
 .offer-image {
   width: 200px;
-}
-
-footer {
-  height: 60px;
 }
