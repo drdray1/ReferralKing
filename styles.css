@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+img {
+  100%;
+}
+
 .navbar-custom {
   background-color: #FFB600;/* #FFFFFF; */
 }
@@ -53,5 +57,13 @@
 }
 
 .offer-image {
-  width: 200px;
+  max-width: 200px;
+  min-width: 50px;
+}
+
+@media only screen and (max-width:400px){
+  /*.offer {
+    display: flex;
+    flex-direction: column;
+  }*/
 }
