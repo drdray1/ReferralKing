@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  100%;
+}
+
+.navbar-custom {
+  background-color: #FFB600;/* #FFFFFF; */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: black;
+  font-weight: bold;
+}
+
+.navbar-brand-logo {
+  width: 15em;
+  height: 10em;
+}
+
+.navbar-brand {
+  color: #0049FF !important;
+}
+
+.home-container {
+  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
+}
+
+.contact-container {
+  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
+}
+
+.offers-container {
+  background-color: #141824; /* #0049FF; #979797;#A6BEDE; Another Color DB8B29S DB8B29*/
+  min-height: 100vh;
+}
+
+.site-text {
+  color: #FFFFFF;
+  font-size: 18pt;
+}
+
+.about-p {
+  width: 300px;
+  font-size: 18pt;
+}
+
+.drayton-profile-pic {
+  width: 50%;
+}
+
+.offer-image {
+  max-width: 200px;
+  min-width: 50px;
+}
+
+@media only screen and (max-width:400px){
+  /*.offer {
+    display: flex;
+    flex-direction: column;
+  }*/
+}
