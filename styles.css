@@ -9,7 +9,7 @@ img {
 }
 
 .navbar-custom {
-  background-color: #FFB600;/* #FFFFFF; */
+  background-color: #C1B7A4;/*#FFB600; #FFFFFF; */
 }
 
 .navbar-custom .navbar-brand,
@@ -24,21 +24,21 @@ img {
 }
 
 .navbar-brand {
-  color: #0049FF !important;
+  color: #000 !important;/*#0049FF !important;*/
 }
 
 .home-container {
-  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  background-color: #D3CBBA;/*#141824; #A6BEDE; Another Color DB8B29S DB8B29*/
   min-height: 100vh;
 }
 
 .contact-container {
-  background-color: #141824; /*#A6BEDE; Another Color DB8B29S DB8B29*/
+  background-color: #D3CBBA; /*#A6BEDE; Another Color DB8B29S DB8B29*/
   min-height: 100vh;
 }
 
 .offers-container {
-  background-color: #141824; /* #0049FF; #979797;#A6BEDE; Another Color DB8B29S DB8B29*/
+  background-color: #D3CBBA; /* #0049FF; #979797;#A6BEDE; Another Color DB8B29S DB8B29*/
   min-height: 100vh;
 }
 
